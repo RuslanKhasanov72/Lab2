@@ -1,0 +1,5 @@
+/Users/pokirface/Desktop/Lab2/Lab2
+/Users/pokirface/Desktop/Lab2/Lab2.dll
+/Users/pokirface/Desktop/Lab2/Lab2.deps.json
+/Users/pokirface/Desktop/Lab2/Lab2.runtimeconfig.json
+/Users/pokirface/Desktop/Lab2/Lab2.pdb

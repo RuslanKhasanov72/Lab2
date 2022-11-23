@@ -1,0 +1,15 @@
+/Users/pokirface/Desktop/Lab2/Lab2/bin/Debug/net6.0/Lab2
+/Users/pokirface/Desktop/Lab2/Lab2/bin/Debug/net6.0/Lab2.deps.json
+/Users/pokirface/Desktop/Lab2/Lab2/bin/Debug/net6.0/Lab2.runtimeconfig.json
+/Users/pokirface/Desktop/Lab2/Lab2/bin/Debug/net6.0/Lab2.dll
+/Users/pokirface/Desktop/Lab2/Lab2/bin/Debug/net6.0/Lab2.pdb
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.csproj.AssemblyReference.cache
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfoInputs.cache
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfo.cs
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.dll
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/refint/Lab2.dll
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.pdb
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/Lab2.genruntimeconfig.cache
+/Users/pokirface/Desktop/Lab2/Lab2/obj/Debug/net6.0/ref/Lab2.dll
